@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FinalCodeReader.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>36AF5C3A1050ADF5E408AA0F442ADADE6F1AAFD2</string>
+				<key>dateExpires</key>
+				<string>2022/01/31</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V7PZG4EZ6K.com.finalcode.FinalCodeReader</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V7PZG4EZ6K</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V7PZG4EZ6K.com.finalcode.FinalCodeReader</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>FinalCodeReader.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e33d6134-8b9e-4eb0-a060-586bf7fcb256</string>
+				<key>name</key>
+				<string>FinalCode Reader DAJ Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V7PZG4EZ6K</string>
+				<key>name</key>
+				<string>Digital Arts Inc. (Unknown Type)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
